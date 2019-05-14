@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "frase": "Essa é a frase 0"
+  },
+  {
+    "id": 1,
+    "frase": "Aqui é a frase 1"
+  },
+  {
+    "id": 2,
+    "frase": "Agora temos a frase 2"
+  },
+  {
+    "id": 3,
+    "frase": "Aqui temos a frase 3"
+  },
+  {
+    "id": 4,
+    "frase": "Frase 4 está aqui"
+  },
+  {
+    "id": 5,
+    "frase": "Opa, aqui está a frase 5"
+  },
+  {
+    "id": 6,
+    "frase": "Putz, frase 6 ta na mão"
+  },
+  {
+    "id": 7,
+    "frase": "Diga olá para a frase 7"
+  },
+  {
+    "id": 8,
+    "frase": "Mais uma, agora a frase 8"
+  },
+  {
+    "id": 9,
+    "frase": "Toma a frase 9"
+  }
+]
