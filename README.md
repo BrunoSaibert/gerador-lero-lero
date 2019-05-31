@@ -1,7 +1,7 @@
 # Desafio
 Crie uma app com gerador de frases aleatórias utilizando React.
 
-# Você vai precisar de:
+# Você vai precisar de
 - Uma/Um API/Objeto JSON com frases diversas;
 - Gerenciador de pacotes: NPM ou Yarn;
 - Seu editor de códigos favorito;
